@@ -216,7 +216,7 @@
                             <ul class="footer-one__info-list">
                                 <li class="footer-one__info-item">
                                     <address class="footer-one__address">
-                                        <p class="footer-one__info">No.5 Parakou Crescent, Wuse 2, Abuja.
+                                        <p class="footer-one__info">No. 5 Parakou Crescent, Wuse 2, Abuja.
                                         </p>
                                     </address>
                                 </li>

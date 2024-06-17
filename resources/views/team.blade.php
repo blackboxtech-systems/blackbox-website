@@ -13,13 +13,13 @@
             <div class="container">
                 <div class="page-header__circle"></div><!-- /.page-header__circle -->
                 <div class="page-header__inner slide-title">
-                    <h1 class="page-header__heading slide-title__heading">Team Page</h1>
+                    <h1 class="page-header__heading slide-title__heading">Our Team</h1>
                     <div class="page-header__breadcrumb-wrap">
                         <span class="page-header__arrow icon-arrow-right-2"></span>
                         <ul class="noile-breadcrumb">
                             <li class="noile-breadcrumb__item"><a href="index.html" class="noile-breadcrumb__link">Home</a></li>
                             <li class="noile-breadcrumb__item noile-breadcrumb__item-divider">/</li>
-                            <li class="noile-breadcrumb__item">Team Page</li>
+                            <li class="noile-breadcrumb__item">Team</li>
                         </ul>
                     </div>
                 </div><!-- /.page-header__inner -->
@@ -98,7 +98,7 @@
                         <div class="team__card">
                             <div class="team__card-info">
                                 <p class="team__card-profession">Solutions Architect</p>
-                                <h4 class="team__card-name">Abiodun Omole Folorunsho</h4>
+                                <h4 class="team__card-name">Abiodun Folorunsho</h4>
                             </div><!-- /.team__card-info -->
                             <div class="team__card-img-box">
                                 <img src="/assets/images/team/team-2-5.png" alt="" class="team__card-img">

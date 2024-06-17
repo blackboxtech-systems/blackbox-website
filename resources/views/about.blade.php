@@ -181,13 +181,13 @@
  <section class="service-two service-one service-two-two">
             <div class="container">
                 <div class="row gx-4 gy-4 gy-xl-0">
-                    <a href="services.html" class="col-xxl-2 service-two__col service-two__col--one wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <a href="{{route('services')}}" class="col-xxl-2 service-two__col service-two__col--one wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                         <div class="service-two__item">
                             <img src="/assets/images/resources/s-letter.png" alt="S letter" class="service-two__letter-s">
                             <h3 class="service-two__title">Social Media Strategy</h3>
                         </div><!-- /.service-two__item -->
                     </a>
-                    <a href="services.html" class="col-xxl-2 col-xl-3 col-lg-4 col-sm-6 service-two__col service-two__col--two wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                    <a href="{{route('services')}}" class="col-xxl-2 col-xl-3 col-lg-4 col-sm-6 service-two__col service-two__col--two wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <div class="service-two__item">
                             <div class="service-two__icon-box">
                                 <svg class="service-two__icon" xmlns="http://www.w3.org/2000/svg" width="102" height="102" viewBox="0 0 102 102" fill="none">
@@ -197,7 +197,7 @@
                             <h3 class="service-two__title">Training</h3>
                         </div><!-- /.service-two__item -->
                     </a>
-                    <a href="services.html" class="col-xxl-2 col-xl-3 col-lg-4 col-sm-6 service-two__col service-two__col--three wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
+                    <a href="{{route('services')}}" class="col-xxl-2 col-xl-3 col-lg-4 col-sm-6 service-two__col service-two__col--three wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
                         <div class="service-two__item">
                             <div class="service-two__icon-box">
                                 <svg class="service-two__icon" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none">
@@ -209,7 +209,7 @@
                             <h3 class="service-two__title">Web & Software Development</h3>
                         </div><!-- /.service-two__item -->
                     </a>
-                    <a href="services.html" class="col-xxl-2 col-xl-3 col-lg-4 col-sm-6 service-two__col service-two__col--four wow animated fadeInUp" data-wow-delay="0.7s" data-wow-duration="1500ms">
+                    <a href="{{route('services')}}" class="col-xxl-2 col-xl-3 col-lg-4 col-sm-6 service-two__col service-two__col--four wow animated fadeInUp" data-wow-delay="0.7s" data-wow-duration="1500ms">
                         <div class="service-two__item">
                             <div class="service-two__icon-box">
                                 <svg class="service-two__icon" xmlns="http://www.w3.org/2000/svg" width="100" height="101" viewBox="0 0 100 101" fill="none">
@@ -222,7 +222,7 @@
                             <h3 class="service-two__title">IT Consultancy Services</h3>
                         </div><!-- /.service-two__item -->
                     </a>
-                    <a href="services.html" class="col-xxl-2 col-xl-3 col-lg-4 col-sm-6 service-two__col service-two__col--five wow animated fadeInUp" data-wow-delay="0.9s" data-wow-duration="1500ms">
+                    <a href="{{route('services')}}" class="col-xxl-2 col-xl-3 col-lg-4 col-sm-6 service-two__col service-two__col--five wow animated fadeInUp" data-wow-delay="0.9s" data-wow-duration="1500ms">
                         <div class="service-two__item">
                             <div class="service-two__icon-box">
                                 <svg class="service-two__icon" xmlns="http://www.w3.org/2000/svg" width="101" height="102" viewBox="0 0 101 102" fill="none">
@@ -234,7 +234,7 @@
                     </a>
                     <div class="col-xxl-2 service-two__col service-two__col--six wow animated fadeInUp" data-wow-delay="1s" data-wow-duration="1500ms">
                         <div class="service-two__item">
-                            <a href="services.html" class="service-two__circle-text service-one__circle-text">
+                            <a href="{{route('services')}}" class="service-two__circle-text service-one__circle-text">
                                 <div class="service-one__curved-circle curved-circle">
                                     <!-- curved-circle start-->
                                     <div class="service-one__curved-circle--item curved-circle--item" data-circle-text-options='{
@@ -410,7 +410,7 @@
                         <div class="col-lg-7 col-xl-8">
                             <div class="clients-one__text">
                                 <p class="clients-one__info-text">Several Companies have already benefited from our expertise.
-                                    plan. <a href="#" class="clients-one__info-link">Contact us today!</a></p>
+                                    <a href="#" class="clients-one__info-link">Contact us today!</a></p>
                                 <div class="clients-one__shape-box">
                                     <img src="/assets/images/shapes/clients-shape-1-1.png" alt="clients-shape" class="clients-one__clients-shape-img-two">
                                     <svg class="clients-one__shape-one" xmlns="http://www.w3.org/2000/svg" width="489" height="186" viewBox="0 0 489 186" fill="none">

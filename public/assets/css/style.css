@@ -11327,7 +11327,7 @@ i {
   justify-content: center;
 }
 .testimonial-one .testimonial__text {
-  font-size: var(--noile-size-4xl);
+  font-size: var(--noile-size-2xl);
   line-height: 1.666;
   padding-right: 29px;
 }

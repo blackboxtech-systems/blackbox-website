@@ -19,7 +19,7 @@
                             <h1 class="main-slider__title slide-title__heading">Tech Solutions at <br> your fingertips</h1>
                             <div class="main-slider__desc-wrap slide-title__desc-wrap">
                                 <span class="main-slider__arrow icon-arrow-right-2"></span>
-                                <p class="main-slider__desc">We Are A Digital Brand </p>
+                                <p class="main-slider__desc">We are a Digital Brand </p>
                             </div>
                             <div class="main-slider__btn-box slide-title__btn-box">
                                 <a href="{{route('about')}}" class="main-slider__btn noile-btn">Get Started </a>
@@ -63,7 +63,7 @@
                             <h1 class="main-slider__title slide-title__heading">IT Consultancy</h1>
                             <div class="main-slider__desc-wrap slide-title__desc-wrap">
                                 <span class="main-slider__arrow icon-arrow-right-2"></span>
-                                <p class="main-slider__desc">We are A Digital Brand</p>
+                                <p class="main-slider__desc">We are a Digital Brand</p>
                             </div>
                             <div class="main-slider__btn-box slide-title__btn-box">
                                 <a href="{{route('about')}}" class="main-slider__btn noile-btn">Get Started</a>
@@ -106,7 +106,7 @@
                             <h1 class="main-slider__title slide-title__heading">Web & Software <br> Development</h1>
                             <div class="main-slider__desc-wrap slide-title__desc-wrap">
                                 <span class="main-slider__arrow icon-arrow-right-2"></span>
-                                <p class="main-slider__desc">We Are A Digital Brand</p>
+                                <p class="main-slider__desc">We are a Digital Brand</p>
                             </div>
                             <div class="main-slider__btn-box slide-title__btn-box">
                                 <a href="{{route('about')}}" class="main-slider__btn noile-btn">Get Started</a>
@@ -380,6 +380,7 @@
             "smartSpeed": 700,
             "loop":true,
             "autoplay": 6000,
+            "autoplayHoverPause": true,
             "nav":false,
             "dots":true,
             "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
@@ -396,34 +397,26 @@
                         <div class="testimonial__item">
                             <div class="testimonial__info">
                                 <div class="testimonial__img-box">
-                                    <img src="/assets/images/testimonial/testimonial-2-1.png" alt="Mango M. Keple" class="testimonial__img">
+                                    <img src="/assets/images/testimonial/testimonial.png" alt="Gbenga Babad" class="testimonial__img" style="width: 100% !important">
                                 </div><!-- /.testimonial__img-box -->
                                 <div class="testimonial__name-box">
-                                    <h3 class="testimonial__name">Elon Musk</h3>
-                                    <div class="testimonial__review-box">
-                                        <ul class="testimonial__review-list">
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                        </ul>
-                                        <p class="testimonial__review-text">(<span>113</span> Reviews)</p>
+                                    <h3 class="testimonial__name">Gbenga Babad</h3>
+                                    <div class="testimonial__review-box" style="display: block">
+                                        <div class="testimonial__review-text" style="margin-top: 10px;">
+                                            <p style="line-height: 5px; color: #ffc107;">Group Head ICT</p>
+                                            <p style="line-height: 5px">Federal Mortgage Bank of Nigeria</p>
+                                        </div>
                                     </div><!-- /.testimonial__review-box -->
                                 </div><!-- /.testimonial__name-box -->
                             </div><!-- /.testimonial__info -->
                             <div class="testimonial__text-box">
-                                <p class="testimonial__text">Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats. Integer, tempus semper our has been lecto.</p>
+                                <p class="testimonial__text">BlackBox Technolgy Systems Ltd has provided us with a secure, flexible website and back-office solution, that involves non-
+                                    members, members and operations in the entire membership lifecycle from the application process to event registration to
+                                    profile updates, allowing us to better serve our members while leveraging new technology for the future. <br>
+                                    <span style="margin-top: 10px">“Working with BlackBox was a pleasure. We always felt that
+                                        they were working with us rather than for us, and were very accommodating of our design changes throughout the project.”
+                                        </span>
+                                    </p>
                             </div><!-- /.testimonial__text-box -->
                             <div class="testimonial__footer">
                                 <img src="/assets/images/resources/testimonial-item-logo.png" alt="logo" class="testimonial__logo">
@@ -444,130 +437,22 @@
                         <div class="testimonial__item">
                             <div class="testimonial__info">
                                 <div class="testimonial__img-box">
-                                    <img src="/assets/images/testimonial/testimonial-2-1.png" alt="Mango M. Keple" class="testimonial__img">
+                                    <img src="/assets/images/testimonial/testimonial2.png" alt="Alh. Idris Othman" class="testimonial__img" style="width: 100% !important">
                                 </div><!-- /.testimonial__img-box -->
                                 <div class="testimonial__name-box">
-                                    <h3 class="testimonial__name">Bill Gates</h3>
-                                    <div class="testimonial__review-box">
-                                        <ul class="testimonial__review-list">
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                        </ul>
-                                        <p class="testimonial__review-text">(<span>113</span> Reviews)</p>
+                                    <h3 class="testimonial__name">Alh. Idris Othman</h3>
+                                    <div class="testimonial__review-box" style="display: block">
+                                        <div class="testimonial__review-text" style="margin-top: 10px;">
+                                            <p style="line-height: 5px; color: #ffc107;">Managing Director</p>
+                                            <p style="line-height: 5px">System Property Development Consortium (SPDC)</p>
+                                        </div>
                                     </div><!-- /.testimonial__review-box -->
                                 </div><!-- /.testimonial__name-box -->
                             </div><!-- /.testimonial__info -->
                             <div class="testimonial__text-box">
-                                <p class="testimonial__text">Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats. Integer, tempus semper our has been lecto.</p>
-                            </div><!-- /.testimonial__text-box -->
-                            <div class="testimonial__footer">
-                                <img src="/assets/images/resources/testimonial-item-logo.png" alt="logo" class="testimonial__logo">
-                                <div class="testimonial__quote-box">
-                                    <span class="testimonial__quote-icon icon-quote"></span>
-                                    <span class="testimonial__quote-icon icon-quote"></span>
-                                </div>
-                            </div><!-- /.testimonial__footer -->
-                            <div class="testimonial__shape-box">
-                                <div class="testimonial__shape-one testimonial__shape-one--slide"></div>
-                                <div class="testimonial__shape-two testimonial__shape-two--slide"></div>
-                                <div class="testimonial__shape-three testimonial__shape-three--slide"></div>
-                                <div class="testimonial__shape-four"></div>
-                            </div><!-- /.testimonial__shape-box -->
-                        </div><!-- /.testimonial__item -->
-                    </div><!-- /.testimonial-one__carousel-item-->
-                    <div class="testimonial-one__carousel-item item">
-                        <div class="testimonial__item">
-                            <div class="testimonial__info">
-                                <div class="testimonial__img-box">
-                                    <img src="/assets/images/testimonial/testimonial-2-1.png" alt="Mango M. Keple" class="testimonial__img">
-                                </div><!-- /.testimonial__img-box -->
-                                <div class="testimonial__name-box">
-                                    <h3 class="testimonial__name">Hilary Clinton</h3>
-                                    <div class="testimonial__review-box">
-                                        <ul class="testimonial__review-list">
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                        </ul>
-                                        <p class="testimonial__review-text">(<span>113</span> Reviews)</p>
-                                    </div><!-- /.testimonial__review-box -->
-                                </div><!-- /.testimonial__name-box -->
-                            </div><!-- /.testimonial__info -->
-                            <div class="testimonial__text-box">
-                                <p class="testimonial__text">Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats. Integer, tempus semper our has been lecto.</p>
-                            </div><!-- /.testimonial__text-box -->
-                            <div class="testimonial__footer">
-                                <img src="/assets/images/resources/testimonial-item-logo.png" alt="logo" class="testimonial__logo">
-                                <div class="testimonial__quote-box">
-                                    <span class="testimonial__quote-icon icon-quote"></span>
-                                    <span class="testimonial__quote-icon icon-quote"></span>
-                                </div>
-                            </div><!-- /.testimonial__footer -->
-                            <div class="testimonial__shape-box">
-                                <div class="testimonial__shape-one testimonial__shape-one--slide"></div>
-                                <div class="testimonial__shape-two testimonial__shape-two--slide"></div>
-                                <div class="testimonial__shape-three testimonial__shape-three--slide"></div>
-                                <div class="testimonial__shape-four"></div>
-                            </div><!-- /.testimonial__shape-box -->
-                        </div><!-- /.testimonial__item -->
-                    </div><!-- /.testimonial-one__carousel-item-->
-                    <div class="testimonial-one__carousel-item item">
-                        <div class="testimonial__item">
-                            <div class="testimonial__info">
-                                <div class="testimonial__img-box">
-                                    <img src="/assets/images/testimonial/testimonial-2-1.png" alt="Mango M. Keple" class="testimonial__img">
-                                </div><!-- /.testimonial__img-box -->
-                                <div class="testimonial__name-box">
-                                    <h3 class="testimonial__name">Donald Trump</h3>
-                                    <div class="testimonial__review-box">
-                                        <ul class="testimonial__review-list">
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                            <li class="testimonial__review-item">
-                                                <span class="testimonial__review-icon icofont-star"></span>
-                                            </li>
-                                        </ul>
-                                        <p class="testimonial__review-text">(<span>113</span> Reviews)</p>
-                                    </div><!-- /.testimonial__review-box -->
-                                </div><!-- /.testimonial__name-box -->
-                            </div><!-- /.testimonial__info -->
-                            <div class="testimonial__text-box">
-                                <p class="testimonial__text">Nam ultricies sed leo eget vehi. Sed variu noni magna quistoli mats. Integer, tempus semper our has been lecto.</p>
+                                <p class="testimonial__text">From my (pleasant) experience with BlackBox the one thing you are definitely not is the typical consulting partner. When most people think of consulting they think “toss over a requirements and maybe a functional spec document and get back working software”. <br>
+                                    <span style="margin-top: 10px">From day one and true to this day, you guys have been more of a consulting shop rather than a “code shop”, that's why we've been able to sustain a long and healthy relationship and actually get good work done without any re-do on our end and without any misunderstandings.</span>
+                                    </p>
                             </div><!-- /.testimonial__text-box -->
                             <div class="testimonial__footer">
                                 <img src="/assets/images/resources/testimonial-item-logo.png" alt="logo" class="testimonial__logo">
@@ -740,7 +625,7 @@
                 <div class="col-lg-7 col-xl-8">
                     <div class="clients-one__text">
                         <p class="clients-one__info-text">Several Companies have already benefited from our expertise.
-                            plan. <a href="#" class="clients-one__info-link">Contact us today!</a></p>
+                            <a href="{{route('contact')}}" class="clients-one__info-link">Contact us today!</a></p>
                         <div class="clients-one__shape-box">
                             <img src="/assets/images/shapes/clients-shape-1-1.png" alt="clients-shape" class="clients-one__clients-shape-img-two">
                             <svg class="clients-one__shape-one" xmlns="http://www.w3.org/2000/svg" width="489" height="186" viewBox="0 0 489 186" fill="none">
