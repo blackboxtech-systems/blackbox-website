@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="/assets/vendors/owl-carousel/css/owl.theme.default.min.css">
 
     <!-- template styles -->
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/style.css?v=1.0">
 </head>
 <body>
 <div class="preloader">

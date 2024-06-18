@@ -397,7 +397,7 @@
                         <div class="testimonial__item">
                             <div class="testimonial__info">
                                 <div class="testimonial__img-box">
-                                    <img src="/assets/images/clients/testimonial.png" alt="Gbenga Babad" class="testimonial__img" style="width: 100% !important">
+                                    <img src="/assets/images/testimonial/testimonial.png" alt="Gbenga Babad" class="testimonial__img" style="width: 100% !important">
                                 </div><!-- /.testimonial__img-box -->
                                 <div class="testimonial__name-box">
                                     <h3 class="testimonial__name">Gbenga Babad</h3>
@@ -437,7 +437,7 @@
                         <div class="testimonial__item">
                             <div class="testimonial__info">
                                 <div class="testimonial__img-box">
-                                    <img src="/assets/images/clients/testimonial2.png" alt="Alh. Idris Othman" class="testimonial__img" style="width: 100% !important">
+                                    <img src="/assets/images/testimonial/testimonial2.png" alt="Alh. Idris Othman" class="testimonial__img" style="width: 100% !important">
                                 </div><!-- /.testimonial__img-box -->
                                 <div class="testimonial__name-box">
                                     <h3 class="testimonial__name">Alh. Idris Othman</h3>
