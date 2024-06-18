@@ -375,29 +375,29 @@
                     <h2 class="testimonial-one__heading sec-title__heading">What Our Client Say</h2>
                 </div><!-- /.testimonial-one__sec-title -->
                 <div class="testimonial-one__carousel noile-owl__carousel owl-theme owl-carousel" data-owl-options='{
-            "items": 2,
-            "margin": 24,
-            "smartSpeed": 700,
-            "loop":true,
-            "autoplay": 6000,
-            "autoplayHoverPause": true,
-            "nav":false,
-            "dots":true,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-            "responsive":{
-                "0":{
-                    "items": 1
-                },
-                "992":{
-                    "items": 2
-                }
-            }
-            }'>
+                    "items": 2,
+                    "margin": 24,
+                    "smartSpeed": 700,
+                    "loop":true,
+                    "autoplay": 6000,
+                    "autoplayHoverPause": true,
+                    "nav":false,
+                    "dots":true,
+                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                    "responsive":{
+                        "0":{
+                            "items": 1
+                        },
+                        "992":{
+                            "items": 2
+                        }
+                    }
+                    }'>
                     <div class="testimonial-one__carousel-item item">
                         <div class="testimonial__item">
                             <div class="testimonial__info">
                                 <div class="testimonial__img-box">
-                                    <img src="/assets/images/testimonial/testimonial.png" alt="Gbenga Babad" class="testimonial__img" style="width: 100% !important">
+                                    <img src="/assets/images/clients/testimonial.png" alt="Gbenga Babad" class="testimonial__img" style="width: 100% !important">
                                 </div><!-- /.testimonial__img-box -->
                                 <div class="testimonial__name-box">
                                     <h3 class="testimonial__name">Gbenga Babad</h3>
@@ -437,7 +437,7 @@
                         <div class="testimonial__item">
                             <div class="testimonial__info">
                                 <div class="testimonial__img-box">
-                                    <img src="/assets/images/testimonial/testimonial2.png" alt="Alh. Idris Othman" class="testimonial__img" style="width: 100% !important">
+                                    <img src="/assets/images/clients/testimonial2.png" alt="Alh. Idris Othman" class="testimonial__img" style="width: 100% !important">
                                 </div><!-- /.testimonial__img-box -->
                                 <div class="testimonial__name-box">
                                     <h3 class="testimonial__name">Alh. Idris Othman</h3>
@@ -473,6 +473,90 @@
             </div><!-- /.container -->
 </section>
 <!-- Testimonial One Start -->
+<div class="client-carousel @@extraClassName d-flex justify-content-center" style="padding-bottom: 0px">
+    <div class="container">
+        <div class="testimonial-one__sec-title sec-title">
+            <div class="testimonial-one__top-wrap sec-title__top-wrap">
+                <img src="/assets/images/resources/top-title-logo.png" alt="top-title-logo" width="30px;">
+                <p class="sec-title__top">Our Clients</p>
+            </div>
+            <h2 class="testimonial-one__heading sec-title__heading">companies we worked with</h2>
+        </div>
+        <div class="client-carousel__one noile-owl__carousel cleenhearts-owl__carousel--basic-nav owl-theme owl-carousel" data-owl-options='{
+    "items": 5,
+    "margin": 65,
+    "smartSpeed": 700,
+    "loop":true,
+    "autoplay": 6000,
+    "nav":true,
+    "dots":false,
+    "navText": ["<span class=\"icon-arrow-left\"></span>","<span class=\"icon-arrow-right\"></span>"],
+    "responsive":{
+        "0":{
+            "items": 2,
+            "margin": 50
+        },
+        "360":{
+            "items": 3,
+            "margin": 40
+        },
+        "575":{
+            "items": 4,
+            "margin": 40
+        },
+        "768":{
+            "items": 4,
+            "margin": 80
+        },
+        "992":{
+            "items": 5,
+            "margin": 100
+        },
+        "1200":{
+            "items": 6,
+            "margin": 134
+        }
+    }
+    }'>
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/clients/client-1.png')}}" alt="brand" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/clients/client-1.png')}}" alt="brand" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/clients/client-2.png')}}" alt="brand" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/clients/client-2.png')}}" alt="brand" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/clients/client-3.png')}}" alt="brand" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/clients/client-3.png')}}" alt="brand" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/clients/client-4.png')}}" alt="brand" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/clients/client-4.png')}}" alt="brand" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/clients/client-5.png')}}" alt="brand" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/clients/client-5.png')}}" alt="brand" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/clients/client-6.png')}}" alt="brand" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/clients/client-6.png')}}" alt="brand" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/clients/client-7.png')}}" alt="brand" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/clients/client-7.png')}}" alt="brand" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/clients/client-8.png')}}" alt="brand" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/clients/client-8.png')}}" alt="brand" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/clients/client-9.png')}}" alt="brand" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/clients/client-9.png')}}" alt="brand" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+        </div><!-- /.thm-owl__slider -->
+    </div><!-- /.container -->
+</div><!-- /.client-carousel -->
 <!-- Solution One Start -->
 <section class="solution-one">
             <div class="container">
@@ -594,6 +678,74 @@
             </div><!-- /.container -->
 </section>
 <!-- Solution One End -->
+<div class="client-carousel @@extraClassName d-flex justify-content-center" style="padding-bottom: 100px; padding-top: 50px;">
+    <div class="container">
+        <div class="testimonial-one__sec-title sec-title">
+            <div class="testimonial-one__top-wrap sec-title__top-wrap">
+                <img src="/assets/images/resources/top-title-logo.png" alt="top-title-logo" width="30px;">
+                <p class="sec-title__top">Our Partners</p>
+            </div>
+            <h2 class="testimonial-one__heading sec-title__heading">Companies we work with</h2>
+        </div>
+        <div class="client-carousel__one noile-owl__carousel cleenhearts-owl__carousel--basic-nav owl-theme owl-carousel" data-owl-options='{
+    "items": 5,
+    "margin": 65,
+    "smartSpeed": 700,
+    "loop":true,
+    "autoplay": 6000,
+    "nav":true,
+    "dots":false,
+    "navText": ["<span class=\"icon-arrow-left\"></span>","<span class=\"icon-arrow-right\"></span>"],
+    "responsive":{
+        "0":{
+            "items": 2,
+            "margin": 50
+        },
+        "360":{
+            "items": 3,
+            "margin": 40
+        },
+        "575":{
+            "items": 4,
+            "margin": 40
+        },
+        "768":{
+            "items": 4,
+            "margin": 80
+        },
+        "992":{
+            "items": 5,
+            "margin": 100
+        },
+        "1200":{
+            "items": 6,
+            "margin": 134
+        }
+    }
+    }'>
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/partners/partner-1.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/partners/partner-1.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/partners/partner-2.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/partners/partner-2.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/partners/partner-3.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/partners/partner-3.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/partners/partner-4.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/partners/partner-4.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+            <a href="#" class="client-carousel__item">
+                <img src="{{asset('/assets/images/partners/partner-5.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__img">
+                <img src="{{asset('/assets/images/partners/partner-5.png')}}" alt="brand" style="height: unset;" class="client-carousel__item__hover-img">
+            </a><!-- /.owl-slide-item-->
+        </div><!-- /.thm-owl__slider -->
+    </div><!-- /.container -->
+</div><!-- /.client-carousel -->
  <!-- Clients One Start -->
  <div class="clients-one @@extraClassName" style="margin-bottom: 100px;">
     <div class="container">
