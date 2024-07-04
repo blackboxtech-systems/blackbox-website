@@ -151,7 +151,7 @@
                                     <img src="/assets/images/about/about-2-1.jpg" alt="about image" class="about-two__img-one">
                                 </div>
                                 <div class="about-two__img-one-text">
-                                    <p class="about-two__img-one-title">10 Years <br> Experience</p>
+                                    <p class="about-two__img-one-title">16 Years <br> Experience</p>
                                 </div>
                             </div>
                             <div class="about-two__img-two-box">
@@ -404,7 +404,7 @@
                                     <div class="testimonial__review-box" style="display: block">
                                         <div class="testimonial__review-text" style="margin-top: 10px;">
                                             <p style="line-height: 5px; color: #ffc107;">Group Head ICT</p>
-                                            <p style="line-height: 5px">Federal Mortgage Bank of Nigeria</p>
+                                            <p style="line-height: 20px">Federal Mortgage Bank of Nigeria</p>
                                         </div>
                                     </div><!-- /.testimonial__review-box -->
                                 </div><!-- /.testimonial__name-box -->
@@ -436,7 +436,7 @@
                     <div class="testimonial-one__carousel-item item">
                         <div class="testimonial__item">
                             <div class="testimonial__info">
-                                <div class="testimonial__img-box">
+                                <div class="testimonial__img-box big_picture">
                                     <img src="/assets/images/testimonial/testimonial2.png" alt="Alh. Idris Othman" class="testimonial__img" style="width: 100% !important">
                                 </div><!-- /.testimonial__img-box -->
                                 <div class="testimonial__name-box">
@@ -444,7 +444,7 @@
                                     <div class="testimonial__review-box" style="display: block">
                                         <div class="testimonial__review-text" style="margin-top: 10px;">
                                             <p style="line-height: 5px; color: #ffc107;">Managing Director</p>
-                                            <p style="line-height: 5px">System Property Development Consortium (SPDC)</p>
+                                            <p style="line-height: 20px">System Property Development Consortium (SPDC)</p>
                                         </div>
                                     </div><!-- /.testimonial__review-box -->
                                 </div><!-- /.testimonial__name-box -->
@@ -480,7 +480,7 @@
                 <img src="/assets/images/resources/top-title-logo.png" alt="top-title-logo" width="30px;">
                 <p class="sec-title__top">Our Clients</p>
             </div>
-            <h2 class="testimonial-one__heading sec-title__heading">companies we worked with</h2>
+            {{-- <h2 class="testimonial-one__heading sec-title__heading">companies we worked with</h2> --}}
         </div>
         <div class="client-carousel__one noile-owl__carousel cleenhearts-owl__carousel--basic-nav owl-theme owl-carousel" data-owl-options='{
     "items": 5,
@@ -579,7 +579,7 @@
                                     <div class="tab active-tab fadeInUp animated" data-wow-delay="200ms" id="MarketingSolution" style="display: block;">
                                         <p class="solution-one__service-desc">From smart customization of the
                                             pre-developed platforms to full-cycle custom software development along
-                                            the client's vision, BlackBox is an expe- rienced development partner to deliver cost-effective and reliable custom soft- ware solutions that match your unique requirements.
+                                            the client's vision, BlackBox is an experienced development partner to deliver cost-effective and reliable custom software solutions that match your unique requirements.
                                             </p>
                                         <div class="solution-one__service-wrap">
                                             <div class="solution-one__service">
@@ -599,8 +599,7 @@
                                     <!--Marketing Solution-tab-end-->
                                     <!--Business Growth-tab-start-->
                                     <div class="tab fadeInUp animated" data-wow-delay="200ms" id="Business-Growth" style="display: none;">
-                                        <p class="solution-one__service-desc">Our knowledge of both business and technology means you can count on us to take your individual needs into
-                                            account. An experienced IT Consultant can make the difference between suc- cess and failure.
+                                        <p class="solution-one__service-desc">Our knowledge of both business and technology means you can count on us to take your individual needs into account. An experienced IT Consultant can make the difference between success and failure.
                                             </p>
                                         <div class="solution-one__service-wrap">
                                             <div class="solution-one__service">
@@ -621,7 +620,7 @@
 
                                     <!--Business Solution-tab-start-->
                                     <div class="tab fadeInUp animated" data-wow-delay="200ms" id="BusinessSolution" style="display: none;">
-                                        <p class="solution-one__service-desc">Database experts will solve your com- plex business problems with the help of Database Management systems like Oracle and SQL Server.Database moni- toring, maintenance, and troubleshoot- ing are critical to BlackBox consulting support services.</p>
+                                        <p class="solution-one__service-desc">Database experts will solve your complex business problems with the help of Database Management systems like Oracle and SQL Server. Database monitoring, maintenance, and troubleshooting are critical to BlackBox consulting support services.</p>
                                         <div class="solution-one__service-wrap">
                                             <div class="solution-one__service">
                                                 <div class="solution-one__service-icon solution-one__service-icon--one">
@@ -685,7 +684,7 @@
                 <img src="/assets/images/resources/top-title-logo.png" alt="top-title-logo" width="30px;">
                 <p class="sec-title__top">Our Partners</p>
             </div>
-            <h2 class="testimonial-one__heading sec-title__heading">Companies we work with</h2>
+            {{-- <h2 class="testimonial-one__heading sec-title__heading">Companies we work with</h2> --}}
         </div>
         <div class="client-carousel__one noile-owl__carousel cleenhearts-owl__carousel--basic-nav owl-theme owl-carousel" data-owl-options='{
     "items": 5,
