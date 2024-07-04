@@ -315,7 +315,7 @@
                     <div class="row g-4">
                         <div class="col-lg-7">
                             <div class="get-work-one__sec-title sec-title">
-                                <h2 class="get-work-one__heading sec-title__heading">Have a project in mind?  Let’s get to work.</h2>
+                                <h2 class="get-work-one__heading sec-title__heading" style="text-transform: none;">Have a project in mind?  Let’s get to work.</h2>
                                 <div class="get-work-one__shape-wrap">
                                     <img src="/assets/images/shapes/get-work-shape-1-1.png" alt="get-work-shape" class="get-work-one__border-one">
                                     <img src="/assets/images/shapes/get-work-shape-1-2.png" alt="get-work-shape" class="get-work-one__border-two">
