@@ -309,7 +309,7 @@
                 <p class="sidebar-one__about-desc">Where expertise meets innovation. Elevate your business with Blackbox Technologies, your trusted partner in ICT and technology</p>
             </div><!-- /.sidebar-one__about -->
             <div class="sidebar-one__information sidebar-one__item">
-                <h4 class="sidebar-one__title">Information</h4>
+                <h4 class="sidebar-one__title">Contact Information</h4>
                 <ul class="sidebar-one__information-list">
                     <li class="sidebar-one__information-item">
                         <i class="sidebar-one__information-icon icofont-home"></i>

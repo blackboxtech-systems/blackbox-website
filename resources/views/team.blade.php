@@ -48,7 +48,7 @@
 <section class="team-page team-two team">
             <div class="container">
                 <div class="row g-4">
-                    <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                         <div class="team__card">
                             <div class="team__card-info">
                                 <p class="team__card-profession">Managing Director</p>
@@ -60,7 +60,7 @@
 
                         </div><!-- /.team__card -->
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <div class="team__card">
                             <div class="team__card-info">
                                 <p class="team__card-profession">Director</p>
@@ -71,7 +71,7 @@
                             </div><!-- /.team__card-img-box -->
                         </div><!-- /.team__card -->
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
                         <div class="team__card">
                             <div class="team__card-info">
                                 <p class="team__card-profession">Director</p>
@@ -83,7 +83,7 @@
 
                         </div><!-- /.team__card -->
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.7s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.7s" data-wow-duration="1500ms">
                         <div class="team__card">
                             <div class="team__card-info">
                                 <p class="team__card-profession">Senior Software Engineer</p>
@@ -94,7 +94,7 @@
                             </div><!-- /.team__card-img-box -->
                         </div><!-- /.team__card -->
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                         <div class="team__card">
                             <div class="team__card-info">
                                 <p class="team__card-profession">Solutions Architect</p>
@@ -105,7 +105,7 @@
                             </div><!-- /.team__card-img-box -->
                         </div><!-- /.team__card -->
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <div class="team__card">
                             <div class="team__card-info">
                                 <p class="team__card-profession">Senior Project Manager</p>

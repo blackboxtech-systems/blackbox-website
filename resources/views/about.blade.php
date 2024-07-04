@@ -54,7 +54,7 @@
                                     <img src="/assets/images/about/about-2-1.jpg" alt="about image" class="about-two__img-one">
                                 </div>
                                 <div class="about-two__img-one-text">
-                                    <p class="about-two__img-one-title">10 Years <br> Experience</p>
+                                    <p class="about-two__img-one-title">16 Years <br> Experience</p>
                                 </div>
                             </div>
                             <div class="about-two__img-two-box">
@@ -83,8 +83,8 @@
                             </div>
                             <h2 class="about-two__heading sec-title__heading">Blackbox Technology Systems Limited</h2>
                             <p class="about-two__desc">Blackbox is a licensed Digital Solutions company offering a broad spectrum of high-quality digital services and solutions to support digital transformation. Leveraging vast experience, Blackbox's team of professionals and experts assists companies in integrating technologies across their businesses.
-                              <p>  Our software development expertise covers the full life-cycle from business requirements analysis, through feasability study, specification, analysis, design, prototyping, program- ming, testing and deployment, to on-going support and en- hancement.</p>
-                            <p>We are specialist in software development and consultancy using various technologies we can select an appropriate ap- plication for a project. This may be a web based or a Windows N-tier soloution.</p>
+                              <p>  Our software development expertise covers the full life-cycle from business requirements analysis, through feasability study, specification, analysis, design, prototyping, programming, testing and deployment, to on-going support and enhancement.</p>
+                            <p>We are specialist in software development and consultancy using various technologies we can select an appropriate application for a project. This may be a web based or a Windows N-tier soloution.</p>
 
                                 <br><br></p>
 
@@ -130,7 +130,7 @@
                     <div class="row g-4">
                         <div class="col-lg-6">
                             <div class="get-work-one__sec-title sec-title">
-                                <h2 class="get-work-one__heading sec-title__heading">Have a project in mind? Let’s get to work.</h2>
+                                <h2 class="get-work-one__heading sec-title__heading" style="text-transform: none;">Have a project in mind? Let's get to work.</h2>
                                 <div class="get-work-one__shape-wrap">
                                     <img src="/assets/images/shapes/get-work-shape-1-1.png" alt="get-work-shape" class="get-work-one__border-one">
                                     <img src="/assets/images/shapes/get-work-shape-1-2.png" alt="get-work-shape" class="get-work-one__border-two">
@@ -280,7 +280,7 @@
                             <div class="tab active-tab fadeInUp animated" data-wow-delay="200ms" id="MarketingSolution" style="display: block;">
                                 <p class="solution-one__service-desc">From smart customization of the
                                     pre-developed platforms to full-cycle custom software development along
-                                    the client's vision, BlackBox is an expe- rienced development partner to deliver cost-effective and reliable custom soft- ware solutions that match your unique requirements.
+                                    the client's vision, BlackBox is an experienced development partner to deliver cost-effective and reliable custom software solutions that match your unique requirements.
                                     </p>
                                 <div class="solution-one__service-wrap">
                                     <div class="solution-one__service">
@@ -300,8 +300,7 @@
                             <!--Marketing Solution-tab-end-->
                             <!--Business Growth-tab-start-->
                             <div class="tab fadeInUp animated" data-wow-delay="200ms" id="Business-Growth" style="display: none;">
-                                <p class="solution-one__service-desc">Our knowledge of both business and technology means you can count on us to take your individual needs into
-                                    account. An experienced IT Consultant can make the difference between suc- cess and failure.
+                                <p class="solution-one__service-desc">Our knowledge of both business and technology means you can count on us to take your individual needs into account. An experienced IT Consultant can make the difference between success and failure.
                                     </p>
                                 <div class="solution-one__service-wrap">
                                     <div class="solution-one__service">
@@ -322,7 +321,7 @@
 
                             <!--Business Solution-tab-start-->
                             <div class="tab fadeInUp animated" data-wow-delay="200ms" id="BusinessSolution" style="display: none;">
-                                <p class="solution-one__service-desc">Database experts will solve your com- plex business problems with the help of Database Management systems like Oracle and SQL Server.Database moni- toring, maintenance, and troubleshoot- ing are critical to BlackBox consulting support services.</p>
+                                <p class="solution-one__service-desc">Database experts will solve your complex business problems with the help of Database Management systems like Oracle and SQL Server. Database monitoring, maintenance, and troubleshooting are critical to BlackBox consulting support services.</p>
                                 <div class="solution-one__service-wrap">
                                     <div class="solution-one__service">
                                         <div class="solution-one__service-icon solution-one__service-icon--one">
