@@ -75,7 +75,7 @@
                         <div class="team__card">
                             <div class="team__card-info">
                                 <p class="team__card-profession">Director</p>
-                                <h4 class="team__card-name">Dr Zarah Bello-Yashe</h4>
+                                <h4 class="team__card-name">Dr. Fatima-Zarah Bello</h4>
                             </div><!-- /.team__card-info -->
                             <div class="team__card-img-box">
                                 <img src="/assets/images/team/team-2-3.png" alt="" class="team__card-img">
